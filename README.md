@@ -13,18 +13,6 @@ Instead of memorizing code, I keep well-documented snippets here — ready to co
 
 ---
 
-## 📂 Repository Structure
-python-snippets/
-│── README.md
-│── data_downloader/
-│ └── divvy_downloader.py
-│── web_scraping/
-│ └── noaa_scraper.py
-
----
-
----
-
 ## 📝 Snippets Overview
 
 ### Divvy Data Downloader
